@@ -9,5 +9,6 @@ int main()
 	cout << "How you doing?" << endl;
 	cout << "Mc Donalds" << endl;
 	cout << "KFC" << endl;
+	cout << "woof" << endl;
 	return 0;
 }
