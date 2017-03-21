@@ -1,3 +1,4 @@
+rmdir nonexistant_directory
 #include "iostream"
 #include "string"
 
@@ -10,3 +11,4 @@ int main()
 	cout << "Mc Donalds" << endl;
 	cout << "KFC" << en
 }
+
